@@ -267,5 +267,3 @@ C:.
 ## Flowchart of System
 ![Flow Chart](/resources/flowchart.png)
 
-## Developer
-Maan Mandaliya | maan.mandaliya@dal.ca | [Portfolio](https://maanmandaliya.super.site/)
